@@ -1,0 +1,11 @@
+{
+  "name": "act-for-react",
+  "version": "1.0.0",
+  "description": "这是一个react的脚手架，用于快速创建react应用。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenhaoact",
+  "license": "ISC"
+}
